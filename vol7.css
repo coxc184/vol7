@@ -1,5 +1,215 @@
+ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1039.cur), auto !important;} 
+
 body{
 
-background-color: deepskyblue;
+background-image: url(img/tumblr_nj60aegxYA1qzbj7zo1_500.gif);
+background-size: cover;
 
 }
+
+
+#title{
+
+font-family: sans-serif;
+font-weight: 100;
+  color: lch(100% 0.01 296.81);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+
+#vol7:hover{
+
+color: rgb(56, 201, 66);
+letter-spacing: 2px;
+font-size: x-large;
+text-decoration: wavy;
+
+}
+
+#head1{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  
+
+}
+
+
+body {
+  margin:0px;
+  font-family: sans-serif;
+  text-align:center;
+}
+
+#container {
+  color:hsl(0, 0%, 100%);
+  text-transform: uppercase;
+  font-size:36px;
+  font-weight:bold;
+  font-family: sans-serif;
+  padding-top:200px;  
+  margin-top: -5%;
+  margin-left: 0.50%;
+ 
+}
+
+#flip {
+  height:50px;
+  overflow:hidden;
+}
+
+#flip > div > div {
+  color:#fff;
+  padding:4px 12px;
+  height:45px;
+  margin-bottom:45px;
+  display:inline-block;
+}
+
+#flip div:first-child {
+  animation: show 5s linear infinite;
+}
+
+#flip div div {
+  background:hsl(322, 67%, 59%);
+}
+
+#flip div:first-child div {
+  background:#6f4ef3;
+
+}
+
+
+#flip div:last-child div {
+  background:#1ad636;
+}
+
+@keyframes show {
+  0% {margin-top:-270px;}
+  5% {margin-top:-180px;}
+  33% {margin-top:-180px;}
+  38% {margin-top:-90px;}
+  66% {margin-top:-90px;}
+  71% {margin-top:0px;}
+  99.99% {margin-top:0px;}
+  100% {margin-top:-270px;}
+}
+
+
+#para1{
+
+
+    font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 100%, 100%);
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  
+
+}
+
+
+#measf{
+     position: relative;
+    left: 50px;
+    height: 300px;
+    width: 400px;
+    margin-top: -40%;
+    margin-left: 55%;
+}
+
+
+#para2{
+
+
+    font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  
+
+
+}
+
+#para3{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+ 
+
+}
+
+#para4{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  
+
+
+}
+
+#age{
+
+
+    font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 20%;
+
+
+}
+
+#ASong{
+
+
+
+
+}
+
+#home{
+
+
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 100%);
+  text-shadow: 2px 2px 5px #ffffff;
+
+
+
+}
+
+#are{
+
+ height: 300px;
+    width: 400px;
+    margin-left: -60%;
+
+  
+}
+#move{
+
+margin-top: -20%;
+
+}
+
+
+
