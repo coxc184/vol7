@@ -1,6 +1,9 @@
+ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1039.cur), auto !important;} 
+
 body{
 
-background-color: deepskyblue;
+background-image: url(img/dflbpfk-3d937486-27a4-4aed-b0a1-920511a61afa\ \(1\).gif);
+background-size: cover;
 
 }
 
@@ -29,7 +32,7 @@ text-decoration: wavy;
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: hsl(0, 0%, 0%);
+  color: hwb(0 100% 0%);
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   
 
@@ -49,11 +52,9 @@ body {
   font-weight:bold;
   font-family: sans-serif;
   padding-top:200px;  
-  position:absolute;
-  width:100%;
-  bottom:45%;
-  display:block;
-  left: 450px;
+  margin-top: -5%;
+  margin-left: 0.50%;
+ 
 }
 
 #flip {
@@ -105,11 +106,11 @@ body {
     font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 100%, 100%);
   text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
   width: 20%;
-  position: absolute;
-  left: 200px;
+  
+
 }
 
 
@@ -118,6 +119,8 @@ body {
     left: 50px;
     height: 300px;
     width: 400px;
+    margin-top: -40%;
+    margin-left: 55%;
 }
 
 
@@ -127,12 +130,10 @@ body {
     font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 0%, 100%);
   text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
   width: 20%;
-  position: absolute;
-  left: 200px;
-  top: 70%;
+  
 
 
 }
@@ -142,12 +143,10 @@ body {
  font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 0%, 100%);
   text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
   width: 20%;
-  position: absolute;
-  left: 630px;
-  top: 70%;
+ 
 
 }
 
@@ -156,12 +155,10 @@ body {
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 0%, 100%);
   text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
   width: 20%;
-  position: absolute;
-  left: 1000px;
-  top: 70%;
+  
 
 
 }
@@ -172,20 +169,15 @@ font-family: "Jersey 10", sans-serif;
     font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 0%, 100%);
   text-shadow: 2px 2px 5px #ffffff;
   width: 20%;
-  position: absolute;
-  left: 630px;
-  top: 105%;
+
 
 }
 
 #ASong{
 
- position: absolute;
-  left: 700px;
-  top: 140%;
 
 
 
@@ -194,17 +186,30 @@ font-family: "Jersey 10", sans-serif;
 #home{
 
 
-position: absolute;
-left: 729px;
-top: 1040px;
+
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
+  color: hsl(0, 0%, 100%);
   text-shadow: 2px 2px 5px #ffffff;
 
 
 
 }
+
+#are{
+
+ height: 300px;
+    width: 400px;
+    margin-left: -60%;
+
+  
+}
+#move{
+
+margin-top: -20%;
+
+}
+
 
 
